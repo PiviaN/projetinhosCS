@@ -1,0 +1,8 @@
+C:\Projetos\C# Beginner\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Projetos\C# Beginner\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Projetos\C# Beginner\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Projetos\C# Beginner\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Projetos\C# Beginner\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\C# Beginner\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Projetos\C# Beginner\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Projetos\C# Beginner\ToDoList\ToDoList\obj\Debug\ToDoList.pdb

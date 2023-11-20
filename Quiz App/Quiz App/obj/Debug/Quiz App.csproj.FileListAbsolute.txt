@@ -1,0 +1,8 @@
+C:\Projetos\C# Beginner\Quiz App\Quiz App\bin\Debug\Quiz App.exe.config
+C:\Projetos\C# Beginner\Quiz App\Quiz App\bin\Debug\Quiz App.exe
+C:\Projetos\C# Beginner\Quiz App\Quiz App\bin\Debug\Quiz App.pdb
+C:\Projetos\C# Beginner\Quiz App\Quiz App\obj\Debug\Quiz App.csproj.AssemblyReference.cache
+C:\Projetos\C# Beginner\Quiz App\Quiz App\obj\Debug\Quiz App.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\C# Beginner\Quiz App\Quiz App\obj\Debug\Quiz App.csproj.CoreCompileInputs.cache
+C:\Projetos\C# Beginner\Quiz App\Quiz App\obj\Debug\Quiz App.exe
+C:\Projetos\C# Beginner\Quiz App\Quiz App\obj\Debug\Quiz App.pdb

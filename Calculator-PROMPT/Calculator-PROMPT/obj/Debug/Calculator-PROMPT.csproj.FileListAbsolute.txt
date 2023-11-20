@@ -1,0 +1,8 @@
+C:\Projetos\Calculator-PROMPT\Calculator-PROMPT\bin\Debug\Calculator-PROMPT.exe.config
+C:\Projetos\Calculator-PROMPT\Calculator-PROMPT\bin\Debug\Calculator-PROMPT.exe
+C:\Projetos\Calculator-PROMPT\Calculator-PROMPT\bin\Debug\Calculator-PROMPT.pdb
+C:\Projetos\Calculator-PROMPT\Calculator-PROMPT\obj\Debug\Calculator-PROMPT.csproj.AssemblyReference.cache
+C:\Projetos\Calculator-PROMPT\Calculator-PROMPT\obj\Debug\Calculator-PROMPT.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\Calculator-PROMPT\Calculator-PROMPT\obj\Debug\Calculator-PROMPT.csproj.CoreCompileInputs.cache
+C:\Projetos\Calculator-PROMPT\Calculator-PROMPT\obj\Debug\Calculator-PROMPT.exe
+C:\Projetos\Calculator-PROMPT\Calculator-PROMPT\obj\Debug\Calculator-PROMPT.pdb

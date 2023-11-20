@@ -1,0 +1,8 @@
+C:\Projetos\C# Beginner\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.exe.config
+C:\Projetos\C# Beginner\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.exe
+C:\Projetos\C# Beginner\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.pdb
+C:\Projetos\C# Beginner\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.AssemblyReference.cache
+C:\Projetos\C# Beginner\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\C# Beginner\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Projetos\C# Beginner\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.exe
+C:\Projetos\C# Beginner\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.pdb

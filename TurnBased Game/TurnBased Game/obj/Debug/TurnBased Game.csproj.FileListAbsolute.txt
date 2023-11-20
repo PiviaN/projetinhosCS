@@ -1,0 +1,8 @@
+C:\Projetos\C# Beginner\TurnBased Game\TurnBased Game\bin\Debug\TurnBased Game.exe.config
+C:\Projetos\C# Beginner\TurnBased Game\TurnBased Game\bin\Debug\TurnBased Game.exe
+C:\Projetos\C# Beginner\TurnBased Game\TurnBased Game\bin\Debug\TurnBased Game.pdb
+C:\Projetos\C# Beginner\TurnBased Game\TurnBased Game\obj\Debug\TurnBased Game.csproj.AssemblyReference.cache
+C:\Projetos\C# Beginner\TurnBased Game\TurnBased Game\obj\Debug\TurnBased Game.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\C# Beginner\TurnBased Game\TurnBased Game\obj\Debug\TurnBased Game.csproj.CoreCompileInputs.cache
+C:\Projetos\C# Beginner\TurnBased Game\TurnBased Game\obj\Debug\TurnBased Game.exe
+C:\Projetos\C# Beginner\TurnBased Game\TurnBased Game\obj\Debug\TurnBased Game.pdb

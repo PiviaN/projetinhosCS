@@ -1,0 +1,8 @@
+C:\Projetos\C# Beginner\Dice_Game\Dice_Game\bin\Debug\Dice_Game.exe.config
+C:\Projetos\C# Beginner\Dice_Game\Dice_Game\bin\Debug\Dice_Game.exe
+C:\Projetos\C# Beginner\Dice_Game\Dice_Game\bin\Debug\Dice_Game.pdb
+C:\Projetos\C# Beginner\Dice_Game\Dice_Game\obj\Debug\Dice_Game.csproj.AssemblyReference.cache
+C:\Projetos\C# Beginner\Dice_Game\Dice_Game\obj\Debug\Dice_Game.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\C# Beginner\Dice_Game\Dice_Game\obj\Debug\Dice_Game.csproj.CoreCompileInputs.cache
+C:\Projetos\C# Beginner\Dice_Game\Dice_Game\obj\Debug\Dice_Game.exe
+C:\Projetos\C# Beginner\Dice_Game\Dice_Game\obj\Debug\Dice_Game.pdb
